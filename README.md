@@ -29,6 +29,10 @@ Sourced from the project's user story brief:
 - Customer distribution by number of orders placed (loyalty/engagement view)
 - Top 10 customers by profit, with rank, order count, sales, profit, and last order date
 
+**Dashboard Preview**
+![Sales Dashboard](screenshots/sales-dashboard.png)
+![Customer Dashboard](screenshots/customer-dashboard.png)  
+
 **Interactivity**
 - Dynamic year selector for exploring historical data
 - Easy navigation between the two dashboards
