@@ -30,8 +30,8 @@ Sourced from the project's user story brief:
 - Top 10 customers by profit, with rank, order count, sales, profit, and last order date
 
 **Dashboard Preview**
-![Sales Dashboard](screenshots/sales-dashboard.png)
-![Customer Dashboard](screenshots/customer-dashboard.png)  
+![Sales Dashboard](Sales-Dashboard.png.png)
+![Customer Dashboard](Customer-Dashboard.png.png)  
 
 **Interactivity**
 - Dynamic year selector for exploring historical data
