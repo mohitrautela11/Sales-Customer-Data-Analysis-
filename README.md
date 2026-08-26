@@ -31,9 +31,9 @@ Sourced from the project's user story brief:
 
 **Dashboard Preview**
 
-![Sales Dashboard](Sales-Dashboard.png.png)
+![Sales Dashboard](Sales-Dashboard.png)
 
-![Customer Dashboard](Customer-Dashboard.png.png)  
+![Customer Dashboard](Customer-Dashboard.png)  
 
 **Interactivity**
 - Dynamic year selector for exploring historical data
